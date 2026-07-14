@@ -7,3 +7,4 @@ tags:
   - skateboarding
 ---
 1. ollie
+2. game of skate
