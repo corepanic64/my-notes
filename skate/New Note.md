@@ -1,8 +1,8 @@
 ---
 name: another_skate
-status: active
+status: drop
 deleted: false
-pinned: false
+pinned: true
 tags:
   - "2"
   - salom
